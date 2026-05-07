@@ -1,6 +1,6 @@
 <div align="center">
 
-# Surgical Post-Training: Cutting Errors, Keeping Knowledge
+# Surgical Post-Training: Proximal On-Policy Distillation for Reasoning with Knowledge Retention
 
 *SPoT successfully introduces new knowledge via an Oracle to boost LLM reasoning, while preventing catastrophic forgetting through a reward-based binary optimization objective. This work makes a deep investigation into the limitations of SFT and DPO.*
 
